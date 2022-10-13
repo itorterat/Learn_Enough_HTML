@@ -1,8 +1,60 @@
 .nav-menu {
   text-align: right;
 }
+
 .nav-spacing {
   margin: 0 0 0 10px;
   text-decoration: none;
   color: blue;
+}
+
+.image-link {
+  text-decoration: none;
+}
+
+.quote {
+  padding: 2px 20px;
+  background: bisque;
+}
+
+td {
+  padding: 10px;
+}
+
+.book-presentation {
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.book-presentation > * {
+  text-align: center;
+}
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.centered-book-text {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+.book-introduction {
+  font-style: italic;
+  font-size: 20px;
+}
+
+#ishmael {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+.left-aligned-image {
+  float: left;
+  margin: 0 40px 0 0;
 }
